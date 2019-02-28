@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="customer8011" />
+        <module name="dept8001" />
+        <module name="generator" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base" target="1.7" />
+      <module name="coustmer" target="1.7" />
+      <module name="customer8011" target="1.7" />
+      <module name="customer8012" target="1.7" />
+      <module name="demo" target="1.7" />
+      <module name="dept8001" target="1.7" />
+      <module name="generator" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

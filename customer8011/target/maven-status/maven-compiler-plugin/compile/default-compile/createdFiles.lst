@@ -1,0 +1,6 @@
+com\lijiang\cloud\customer\Customer8011_App.class
+com\lijiang\cloud\customer\service\RedisService.class
+com\lijiang\cloud\customer\conf\RedisConfig.class
+com\lijiang\cloud\customer\conf\RedisConfig$1.class
+com\lijiang\cloud\customer\conf\CustomerConfig.class
+com\lijiang\cloud\customer\controllor\CustomerControllor.class

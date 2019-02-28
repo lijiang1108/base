@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="customer8012:war exploded">
+    <output-path>$PROJECT_DIR$/customer8012/target/customer8012</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="customer8012" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/customer8012/target/customer8012/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="customer8012/web/Web" />
+    </root>
+  </artifact>
+</component>

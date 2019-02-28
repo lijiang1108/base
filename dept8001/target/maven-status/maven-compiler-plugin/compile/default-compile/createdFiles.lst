@@ -1,0 +1,4 @@
+com\lijiang\cloud\mapper\YlgjCompanyDeptMapper.class
+com\lijiang\cloud\controllor\DeptControllor.class
+com\lijiang\cloud\service\YlgjCompanyDeptService.class
+com\lijiang\cloud\Dept8001_App.class
